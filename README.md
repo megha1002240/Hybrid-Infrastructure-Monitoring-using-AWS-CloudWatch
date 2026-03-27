@@ -25,7 +25,8 @@ On-Prem VM → CloudWatch Agent → AWS CloudWatch
 EC2 Instance → CloudWatch Metrics → Dashboard + Alarm → SNS Email Alert
 
 
-![Architecture](img/architechture.png)
+<img width="864" height="510" alt="architechture" src="https://github.com/user-attachments/assets/767033ec-ddd6-4e47-817c-ff6c5f76b68d" />
+
 
 ---
 
